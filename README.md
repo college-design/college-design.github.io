@@ -1,6 +1,4 @@
-- 姓名：[刘雪岗](https://github.com/xuegangliu)
-- 专业：计算机科学与技术
-- 学号：20131106103
+#  Project
 
 ## C语言
 - [内师大绩点计算器](https://github.com/college-design/school-demo/tree/master/GPA)
